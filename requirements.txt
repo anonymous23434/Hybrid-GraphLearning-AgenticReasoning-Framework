@@ -1,0 +1,54 @@
+
+# Machine Learning
+scipy
+scikit-learn
+xgboost
+lightgbm
+catboost
+imblearn
+joblib
+
+# Deep Learning
+tensorflow
+keras
+torch
+
+# NLP & Vector Databases
+chromadb
+neo4j
+sentence-transformers
+spacy
+transformers
+
+# Data Processing
+numpy
+pandas
+tqdm
+
+# Visualization
+matplotlib
+seaborn
+
+# Web & Parsing
+beautifulsoup4
+lxml
+jinja2
+
+# Memory Management & Monitoring
+psutil>=5.9.0  # For memory monitoring
+memory_profiler>=0.61.0  # For detailed memory profiling
+
+# Utilities
+python-dotenv
+pydantic
+
+# Development
+pytest
+black
+flake8
+requests
+PyYAML
+
+# Optional: Use lightweight models
+# --extra-index-url https://download.pytorch.org/whl/cpu
+# torch-cpu  # CPU-only version saves memory
