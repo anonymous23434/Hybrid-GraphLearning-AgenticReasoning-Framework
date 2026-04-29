@@ -1,6 +1,6 @@
-# Contributing to Questor
+# Contributing to Hybrid-GraphLearning-AgenticReasoning-Framework
 
-Thank you for your interest in contributing to Questor! 🎉
+Thank you for your interest in contributing to Hybrid-GraphLearning-AgenticReasoning-Framework! 🎉
 
 ## How to Contribute
 
@@ -19,8 +19,8 @@ Thank you for your interest in contributing to Questor! 🎉
 
 #### 1. Fork and Clone
 ```bash
-git clone https://github.com/ChaudaryAbdullah/Questor.git
-cd Questor
+git clone https://github.com/anonymous23434/Hybrid-GraphLearning-AgenticReasoning-Framework.git
+cd Hybrid-GraphLearning-AgenticReasoning-Framework
 ```
 
 #### 2. Create a Branch
