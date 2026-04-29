@@ -122,7 +122,7 @@ graph LR
 ### Installation
 
 ```bash
-git clone https://github.com/ChaudaryAbdullah/Questor.git
+git clone https://github.com/anonymous23434/Hybrid-GraphLearning-AgenticReasoning-Framework
 cd Questor/Main_Immplementation
 
 # Create virtual environment and install dependencies
@@ -271,9 +271,9 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for guidelines.
 ```bibtex
 @software{questor2026,
   title  = {Questor: Advanced Multi-Agent Fraud Detection System},
-  author = {Chaudary, Abdullah},
+  author = {Anonymous},
   year   = {2026},
-  url    = {https://github.com/ChaudaryAbdullah/Questor}
+  url    = {https://github.com/anonymous23434/Hybrid-GraphLearning-AgenticReasoning-Framework}
 }
 ```
 
