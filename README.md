@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Agents](https://img.shields.io/badge/Agents-15-purple.svg)](#-15-fraud-detection-agents)
 [![Models](https://img.shields.io/badge/ML%20Models-17-orange.svg)](#-structured-pipeline--ml-ensemble)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ChaudaryAbdullah/Questor/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/anonymous23434/Hybrid-GraphLearning-AgenticReasoning-Framework/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 **A state-of-the-art fraud detection system combining 17 ML models, document text analysis, and 15 specialized financial agents into a unified risk score.**
@@ -281,9 +281,9 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for guidelines.
 
 ## 📞 Contact
 
-- **Author**: Abdullah Shakir
-- **GitHub**: [@ChaudaryAbdullah](https://github.com/ChaudaryAbdullah)
-- **Project**: [github.com/ChaudaryAbdullah/Questor](https://github.com/ChaudaryAbdullah/Questor)
+- **Author**: Anonymous 
+- **GitHub**: [@anonymous23434]([https://github.com/ChaudaryAbdullah](https://github.com/anonymous23434))
+- **Project**: [github.com/anonymous23434/Hybrid-GraphLearning-AgenticReasoning-Framework](https://github.com/anonymous23434/Hybrid-GraphLearning-AgenticReasoning-Framework)
 
 ---
 
