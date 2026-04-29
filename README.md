@@ -1,4 +1,4 @@
-# 🛡️ Questor — Advanced Multi-Agent Fraud Detection System
+# 🛡️ Hybrid-GraphLearning-AgenticReasoning-Framework
 
 <div align="center">
 
@@ -66,7 +66,7 @@ Rule-based financial fraud agents, each scoring 0–100:
 ## 🏗️ Architecture
 
 ```
-Questor/
+Hybrid-GraphLearning-AgenticReasoning-Framework/
 ├── Main_Immplementation/          # 🎯 Production pipeline
 │   ├── run_unified.py             # ENTRY POINT — runs everything
 │   ├── score_combiner.py          # Weighted final risk score
@@ -123,7 +123,7 @@ graph LR
 
 ```bash
 git clone https://github.com/anonymous23434/Hybrid-GraphLearning-AgenticReasoning-Framework
-cd Questor/Main_Immplementation
+cd Hybrid-GraphLearning-AgenticReasoning-Framework/Main_Immplementation
 
 # Create virtual environment and install dependencies
 python -m venv venv
@@ -270,7 +270,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for guidelines.
 
 ```bibtex
 @software{questor2026,
-  title  = {Questor: Advanced Multi-Agent Fraud Detection System},
+  title  = {A Hybrid Graph Learning and Agentic Reasoning Framework for Financial Fraud Detection},
   author = {Anonymous},
   year   = {2026},
   url    = {https://github.com/anonymous23434/Hybrid-GraphLearning-AgenticReasoning-Framework}
